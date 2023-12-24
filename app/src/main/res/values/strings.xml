@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JavaAndroidPractice2</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="login_or_reg">Выполните вход \nили зарегистрируйтесь.</string>
+    <string name="enter_email">Введите вашу почту</string>
+    <string name="enter">Войти</string>
+    <string name="forget_pass">Забыли пароль?</string>
+    <string name="tap_here">Нажмите сюда</string>
+</resources>
